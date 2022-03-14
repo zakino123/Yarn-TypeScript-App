@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es2017",　/* JavaScriptにコンパイルした際のJavaScriptのバージョン */
+    "module": "es2015", /* 出力されるJavaScriptが、どのようにモジュールを読み込むか指定 */
+    "sourceMap": true, /* 出力されたJavaScriptファイルが実際に動作させるとき、デバッガーが元のTypeScriptソースファイルを表示できる */
+    "outDir": "./public/js", /* tsconfigの設定でyarn tscを実行すると、出力されたJavaScriptファイルは、指定フォルダに生成 */
+    "rootDir": "./src/tsc", /* コンパイル結果を出力する際に、どのディレクトリ配下を対象として出力するかを指定 */
+    "removeComments": true, /* コンパイル後の出力ファイルから、コンパイル対象のファイル上のコメントを削除 */
+    "strict": true, /* strictオプションをtrueにする */
+    "esModuleInterop": true, /* コンパイル時にヘルパーメソッドが生成されるようになり、モジュールシステムの相互運用性が高まる */
+    "skipLibCheck": true, /* 型定義ファイルのチェックをスキップ */
+    "force ConsistentCasingInFileNames": true /* ファイルの文字列の大文字小文字を区別するかどうかを指定 */
+  }
+}
