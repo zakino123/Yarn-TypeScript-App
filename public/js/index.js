@@ -4,6 +4,13 @@ window.onload = function () {
     app.innerHTML = "Hello Typescript World! foo";
     addBaz(app);
 };
+const user = {
+    name: "山崎",
+    height: 170,
+    age: 30,
+    isAdult: true
+};
+console.log(user.name);
 function mix(input1, input2) {
     let result;
     if (typeof input1 === 'number' && typeof input2 === 'number') {

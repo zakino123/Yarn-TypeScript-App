@@ -9,6 +9,22 @@ window.onload = function () {
   addBaz(app);
 };
 
+interface User {
+  name: string;
+  height: number;
+  age: number;
+  isAdult :boolean;
+}
+
+const user: User = {
+  name: "山崎",
+  height: 170,
+  age: 30,
+  isAdult: true
+}
+
+console.log(user.name)
+
 function mix(
   input1: number | string,
   input2: number | string,) {
