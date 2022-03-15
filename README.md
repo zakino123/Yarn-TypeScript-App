@@ -76,3 +76,11 @@ https://qiita.com/annaaida/items/f2c372000e8358ea8d8f
 ・【JavaScript】Babelとは何か
 
 https://qiita.com/mzmz__02/items/e6fbe5e30cc3fd13788f
+
+・型定義ファイル (.d.ts)
+
+https://typescriptbook.jp/reference/declaration-file#dts%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB
+
+・【TypeScript】型定義でのinterfaceとtypeの違い
+
+https://yutaro-blog.net/2021/10/08/typescript-interface-type/

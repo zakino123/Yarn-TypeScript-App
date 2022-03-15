@@ -1,9 +1,4 @@
-import { addBaz } from "./baz.js";
-window.onload = function () {
-    const app = document.getElementById("foo");
-    app.innerHTML = "Hello Typescript World! foo";
-    addBaz(app);
-};
+"use strict";
 const user = {
     name: "山崎",
     height: 170,

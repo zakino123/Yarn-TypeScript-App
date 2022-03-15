@@ -1,13 +1,13 @@
-import { addBaz } from './baz'
+// import { addBaz } from './baz'
 
 // window.onload:ページの読み込みが完了したタイミングで処理が実行される
-window.onload = function () {
+// window.onload = function () {
   // HTMLParagraphElement：<p> 要素を操作する為のインタフェース
-  const app = document.getElementById("foo") as HTMLParagraphElement;
+//   const app = document.getElementById("foo") as HTMLParagraphElement;
   
-  app.innerHTML ="Hello Typescript World! foo";
-  addBaz(app);
-};
+//   app.innerHTML ="Hello Typescript World! foo";
+//   addBaz(app);
+// };
 
 interface User {
   name: string;

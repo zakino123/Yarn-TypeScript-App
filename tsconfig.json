@@ -13,7 +13,7 @@
     "plugins": [
       {
         "transform": "@zoltu/typescript-transformer-append-js-extension/output/index.js",
-        "after": true,
+        "after": true, /* コンパイルが終わった後に */
       }
     ]
   }

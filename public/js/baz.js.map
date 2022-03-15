@@ -1,1 +1,1 @@
-{"version":3,"file":"baz.js","sourceRoot":"","sources":["../../src/tsc/baz.ts"],"names":[],"mappings":"AAAA,MAAM,UAAU,MAAM,CAAC,CAAsB;IAC3C,MAAM,GAAG,GAAG,QAAQ,CAAC,aAAa,CAAC,GAAG,CAAC,CAAC;IACxC,GAAG,CAAC,WAAW,GAAG,YAAY,CAAC;IAE/B,CAAC,aAAD,CAAC,uBAAD,CAAC,CAAE,WAAW,CAAC,GAAG,CAAC,CAAC;AACtB,CAAC"}
+{"version":3,"file":"baz.js","sourceRoot":"","sources":["../../src/tsc/baz.ts"],"names":[],"mappings":""}
