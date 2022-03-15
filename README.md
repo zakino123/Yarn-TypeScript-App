@@ -84,3 +84,23 @@ https://typescriptbook.jp/reference/declaration-file#dts%E3%83%95%E3%82%A1%E3%82
 ・【TypeScript】型定義でのinterfaceとtypeの違い
 
 https://yutaro-blog.net/2021/10/08/typescript-interface-type/
+
+・【TypeScript】型ガード(Type Guard)の概要、typeofとinstanceofの利用例
+
+https://nishinatoshiharu.com/overview-type-guard/
+
+・JavaScript textContentとinnerHTMLの違いのサンプル
+
+https://itsakura.com/js-textcontent-innerhtml
+
+・TypeScriptのOptionalChaining
+
+https://til.swfz.io/entries/typescript_chaining/
+
+・TypeScript4.0でNull合体代入演算子（??=）が導入されました
+
+https://qiita.com/masato_makino/items/2dfb12cdb3c3c33b71ab
+
+・戻り値がない関数とvoid型 (void type)
+
+https://typescriptbook.jp/reference/functions/void-type
