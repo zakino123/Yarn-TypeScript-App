@@ -5,6 +5,15 @@
   "repository": "git@github.com:zakino123/Yarn-TypeScript-App.git",
   "author": "zakino123 <15rb076@ms.dendai.ac.jp>",
   "license": "MIT",
+  "scripts": {
+    "clean": "rimraf ./public/js/",
+    "ttsc": "ttsc",
+    "watch": "ttsc --watch",
+    "cleanwatch": "run-s clean watch",
+    "serve": "sirv public --port 8010",
+    "build": "run-s clean ttsc serve",
+    "dev": "run-p cleanwatch serve"
+  },
   "devDependencies": {
     "@zoltu/typescript-transformer-append-js-extension": "^1.0.1",
     "rimraf": "^3.0.2",
